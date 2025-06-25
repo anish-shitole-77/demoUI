@@ -1,0 +1,11 @@
+about --done
+cart  --done
+contact  --done
+Home    --done
+
+login_register
+
+product_details  --done
+product_list   --done
+
+check out   --done
